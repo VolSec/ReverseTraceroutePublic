@@ -35,8 +35,8 @@ import (
 	"strconv"
 	"sync"
 
-	dm "github.com/NEU-SNS/ReverseTraceroute/datamodel"
-	"github.com/NEU-SNS/ReverseTraceroute/util"
+	dm "github.com/VolSec/ReverseTraceroutePublic/datamodel"
+	"github.com/VolSec/ReverseTraceroutePublic/util"
 )
 
 // Cmd is a command that can run on scamper

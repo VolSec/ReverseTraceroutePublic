@@ -5,9 +5,9 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/NEU-SNS/ReverseTraceroute/revtr/pb"
-	"github.com/NEU-SNS/ReverseTraceroute/revtr/repository"
-	"github.com/NEU-SNS/ReverseTraceroute/revtr/server"
+	"github.com/VolSec/ReverseTraceroutePublic/revtr/pb"
+	"github.com/VolSec/ReverseTraceroutePublic/revtr/repository"
+	"github.com/VolSec/ReverseTraceroutePublic/revtr/server"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/credentials"

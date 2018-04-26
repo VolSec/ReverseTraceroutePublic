@@ -32,8 +32,8 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/NEU-SNS/ReverseTraceroute/datamodel"
-	"github.com/NEU-SNS/ReverseTraceroute/util"
+	"github.com/VolSec/ReverseTraceroutePublic/datamodel"
+	"github.com/VolSec/ReverseTraceroutePublic/util"
 )
 
 func BenchmarkConvertBytes(b *testing.B) {

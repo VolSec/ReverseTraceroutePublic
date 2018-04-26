@@ -34,9 +34,9 @@ import (
 	"sync"
 	"time"
 
-	dm "github.com/NEU-SNS/ReverseTraceroute/datamodel"
-	"github.com/NEU-SNS/ReverseTraceroute/log"
-	plc "github.com/NEU-SNS/ReverseTraceroute/plcontroller/pb"
+	dm "github.com/VolSec/ReverseTraceroutePublic/datamodel"
+	"github.com/VolSec/ReverseTraceroutePublic/log"
+	plc "github.com/VolSec/ReverseTraceroutePublic/plcontroller/pb"
 	con "golang.org/x/net/context"
 )
 

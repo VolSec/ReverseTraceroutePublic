@@ -28,8 +28,8 @@
 package plcontroller
 
 import (
-	"github.com/NEU-SNS/ReverseTraceroute/datamodel"
-	"github.com/NEU-SNS/ReverseTraceroute/scamper"
+	"github.com/VolSec/ReverseTraceroutePublic/datamodel"
+	"github.com/VolSec/ReverseTraceroutePublic/scamper"
 )
 
 // Config is the config struct for the plc

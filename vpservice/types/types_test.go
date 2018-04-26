@@ -31,8 +31,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/NEU-SNS/ReverseTraceroute/vpservice/pb"
-	"github.com/NEU-SNS/ReverseTraceroute/vpservice/types"
+	"github.com/VolSec/ReverseTraceroutePublic/vpservice/pb"
+	"github.com/VolSec/ReverseTraceroutePublic/vpservice/types"
 )
 
 func TestMarshalQuarantine(t *testing.T) {

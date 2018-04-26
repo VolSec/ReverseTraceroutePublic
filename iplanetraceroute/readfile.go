@@ -7,7 +7,7 @@ import (
 	"io"
 	"net"
 
-	"github.com/NEU-SNS/ReverseTraceroute/util"
+	"github.com/VolSec/ReverseTraceroutePublic/util"
 )
 
 // Traceroute is the traceroute as stored in iPlane data outputs

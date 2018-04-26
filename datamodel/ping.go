@@ -30,7 +30,7 @@ package datamodel
 import (
 	"fmt"
 
-	"github.com/NEU-SNS/ReverseTraceroute/util"
+	"github.com/VolSec/ReverseTraceroutePublic/util"
 	"github.com/golang/protobuf/proto"
 )
 

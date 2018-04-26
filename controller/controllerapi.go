@@ -36,10 +36,10 @@ import (
 	"strconv"
 	"time"
 
-	cont "github.com/NEU-SNS/ReverseTraceroute/controller/pb"
-	dm "github.com/NEU-SNS/ReverseTraceroute/datamodel"
-	"github.com/NEU-SNS/ReverseTraceroute/log"
-	"github.com/NEU-SNS/ReverseTraceroute/util"
+	cont "github.com/VolSec/ReverseTraceroutePublic/controller/pb"
+	dm "github.com/VolSec/ReverseTraceroutePublic/datamodel"
+	"github.com/VolSec/ReverseTraceroutePublic/log"
+	"github.com/VolSec/ReverseTraceroutePublic/util"
 	"github.com/gogo/protobuf/jsonpb"
 	con "golang.org/x/net/context"
 )

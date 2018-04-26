@@ -7,12 +7,12 @@ import (
 	"os"
 	"testing"
 
-	"github.com/NEU-SNS/ReverseTraceroute/revtr/clustermap"
-	mocks "github.com/NEU-SNS/ReverseTraceroute/revtr/mocks"
-	"github.com/NEU-SNS/ReverseTraceroute/revtr/pb"
-	"github.com/NEU-SNS/ReverseTraceroute/revtr/types"
-	vpm "github.com/NEU-SNS/ReverseTraceroute/vpservice/mocks"
-	vpt "github.com/NEU-SNS/ReverseTraceroute/vpservice/pb"
+	"github.com/VolSec/ReverseTraceroutePublic/revtr/clustermap"
+	mocks "github.com/VolSec/ReverseTraceroutePublic/revtr/mocks"
+	"github.com/VolSec/ReverseTraceroutePublic/revtr/pb"
+	"github.com/VolSec/ReverseTraceroutePublic/revtr/types"
+	vpm "github.com/VolSec/ReverseTraceroutePublic/vpservice/mocks"
+	vpt "github.com/VolSec/ReverseTraceroutePublic/vpservice/pb"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )

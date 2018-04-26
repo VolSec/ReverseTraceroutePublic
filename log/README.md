@@ -1,6 +1,6 @@
 # log
 --
-    import "github.com/NEU-SNS/ReverseTraceroute/log"
+    import "github.com/VolSec/ReverseTraceroutePublic/log"
 
 Package log is the logging package used in the reverse traceroute system
 

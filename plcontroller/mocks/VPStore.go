@@ -2,7 +2,7 @@ package mocks
 
 import "github.com/stretchr/testify/mock"
 
-import dm "github.com/NEU-SNS/ReverseTraceroute/datamodel"
+import dm "github.com/VolSec/ReverseTraceroutePublic/datamodel"
 
 type VPStore struct {
 	mock.Mock

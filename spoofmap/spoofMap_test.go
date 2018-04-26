@@ -5,9 +5,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/NEU-SNS/ReverseTraceroute/datamodel"
-	"github.com/NEU-SNS/ReverseTraceroute/spoofmap"
-	"github.com/NEU-SNS/ReverseTraceroute/util"
+	"github.com/VolSec/ReverseTraceroutePublic/datamodel"
+	"github.com/VolSec/ReverseTraceroutePublic/spoofmap"
+	"github.com/VolSec/ReverseTraceroutePublic/util"
 )
 
 type sender struct {

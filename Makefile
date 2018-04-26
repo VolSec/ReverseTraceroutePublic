@@ -6,7 +6,7 @@ MAIN_DIRS = $(shell dirname `git ls-files '*/main.go'`)
 all: deps protos vpservice revtr atlas plcontroller controller plvp
 
 deps:
-	go get -d -v github.com/NEU-SNS/ReverseTraceroute/...
+	go get -d -v github.com/VolSec/ReverseTraceroutePublic/...
 
 protos:
 	@ if ! command -v protoc >/dev/null; then \

@@ -27,7 +27,7 @@
 
 package datamodel
 
-import "github.com/NEU-SNS/ReverseTraceroute/warts"
+import "github.com/VolSec/ReverseTraceroutePublic/warts"
 
 // ConvertPing converts a warts ping to a DM ping
 func ConvertPing(in warts.Ping) Ping {

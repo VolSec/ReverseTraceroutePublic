@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/NEU-SNS/ReverseTraceroute/tools/process-rr/processrr"
+	"github.com/VolSec/ReverseTraceroutePublic/tools/process-rr/processrr"
 )
 
 func main() {

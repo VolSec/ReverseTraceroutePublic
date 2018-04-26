@@ -3,7 +3,7 @@ package controller
 import (
 	"sync"
 
-	dm "github.com/NEU-SNS/ReverseTraceroute/datamodel"
+	dm "github.com/VolSec/ReverseTraceroutePublic/datamodel"
 	"github.com/prometheus/log"
 )
 

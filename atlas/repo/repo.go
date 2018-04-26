@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/NEU-SNS/ReverseTraceroute/atlas/pb"
-	"github.com/NEU-SNS/ReverseTraceroute/atlas/types"
-	"github.com/NEU-SNS/ReverseTraceroute/datamodel"
-	"github.com/NEU-SNS/ReverseTraceroute/log"
-	"github.com/NEU-SNS/ReverseTraceroute/repository"
+	"github.com/VolSec/ReverseTraceroutePublic/atlas/pb"
+	"github.com/VolSec/ReverseTraceroutePublic/atlas/types"
+	"github.com/VolSec/ReverseTraceroutePublic/datamodel"
+	"github.com/VolSec/ReverseTraceroutePublic/log"
+	"github.com/VolSec/ReverseTraceroutePublic/repository"
 )
 
 // Repo is a respository for storing and querying traceroutes

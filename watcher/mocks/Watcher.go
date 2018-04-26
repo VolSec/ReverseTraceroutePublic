@@ -1,6 +1,6 @@
 package mocks
 
-import "github.com/NEU-SNS/ReverseTraceroute/watcher"
+import "github.com/VolSec/ReverseTraceroutePublic/watcher"
 import "github.com/stretchr/testify/mock"
 
 type Watcher struct {

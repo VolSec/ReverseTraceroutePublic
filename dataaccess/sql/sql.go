@@ -33,10 +33,10 @@ import (
 	"net"
 	"time"
 
-	dm "github.com/NEU-SNS/ReverseTraceroute/datamodel"
-	"github.com/NEU-SNS/ReverseTraceroute/log"
-	"github.com/NEU-SNS/ReverseTraceroute/repository"
-	"github.com/NEU-SNS/ReverseTraceroute/util"
+	dm "github.com/VolSec/ReverseTraceroutePublic/datamodel"
+	"github.com/VolSec/ReverseTraceroutePublic/log"
+	"github.com/VolSec/ReverseTraceroutePublic/repository"
+	"github.com/VolSec/ReverseTraceroutePublic/util"
 	"github.com/go-sql-driver/mysql"
 )
 

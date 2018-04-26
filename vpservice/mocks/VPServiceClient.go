@@ -2,7 +2,7 @@ package mocks
 
 import "github.com/stretchr/testify/mock"
 
-import datamodel "github.com/NEU-SNS/ReverseTraceroute/datamodel"
+import datamodel "github.com/VolSec/ReverseTraceroutePublic/datamodel"
 import context "golang.org/x/net/context"
 import grpc "google.golang.org/grpc"
 

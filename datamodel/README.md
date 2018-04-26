@@ -1,6 +1,6 @@
 # datamodel
 --
-    import "github.com/NEU-SNS/ReverseTraceroute/datamodel"
+    import "github.com/VolSec/ReverseTraceroutePublic/datamodel"
 
 Package datamodel contains the shared data structures used in the different
 parts of the reverse traceroute system.
@@ -9,12 +9,12 @@ Package datamodel is a generated protocol buffer package.
 
 It is generated from these files:
 
-    github.com/NEU-SNS/ReverseTraceroute/datamodel/ping.proto
-    github.com/NEU-SNS/ReverseTraceroute/datamodel/recspoof.proto
-    github.com/NEU-SNS/ReverseTraceroute/datamodel/time.proto
-    github.com/NEU-SNS/ReverseTraceroute/datamodel/traceroute.proto
-    github.com/NEU-SNS/ReverseTraceroute/datamodel/update.proto
-    github.com/NEU-SNS/ReverseTraceroute/datamodel/vantagepoint.proto
+    github.com/VolSec/ReverseTraceroutePublic/datamodel/ping.proto
+    github.com/VolSec/ReverseTraceroutePublic/datamodel/recspoof.proto
+    github.com/VolSec/ReverseTraceroutePublic/datamodel/time.proto
+    github.com/VolSec/ReverseTraceroutePublic/datamodel/traceroute.proto
+    github.com/VolSec/ReverseTraceroutePublic/datamodel/update.proto
+    github.com/VolSec/ReverseTraceroutePublic/datamodel/vantagepoint.proto
 
 It has these top-level messages:
 

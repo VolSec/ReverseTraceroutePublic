@@ -6,7 +6,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/NEU-SNS/ReverseTraceroute/log"
+	"github.com/VolSec/ReverseTraceroutePublic/log"
 	// import the mysql driver
 	_ "github.com/go-sql-driver/mysql"
 )

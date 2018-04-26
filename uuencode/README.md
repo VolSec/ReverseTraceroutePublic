@@ -1,6 +1,6 @@
 # uuencode
 --
-    import "github.com/NEU-SNS/ReverseTraceroute/uuencode"
+    import "github.com/VolSec/ReverseTraceroutePublic/uuencode"
 
 Package uuencode is a package for uuencoding bytes and decoding uuencoded bytes
 

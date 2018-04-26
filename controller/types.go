@@ -29,8 +29,8 @@
 package controller
 
 import (
-	"github.com/NEU-SNS/ReverseTraceroute/cache"
-	da "github.com/NEU-SNS/ReverseTraceroute/dataaccess"
+	"github.com/VolSec/ReverseTraceroutePublic/cache"
+	da "github.com/VolSec/ReverseTraceroutePublic/dataaccess"
 )
 
 // Config is the config struct for the controller

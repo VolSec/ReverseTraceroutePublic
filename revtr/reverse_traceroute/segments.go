@@ -6,9 +6,9 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/NEU-SNS/ReverseTraceroute/log"
-	"github.com/NEU-SNS/ReverseTraceroute/revtr/clustermap"
-	"github.com/NEU-SNS/ReverseTraceroute/util/string"
+	"github.com/VolSec/ReverseTraceroutePublic/log"
+	"github.com/VolSec/ReverseTraceroutePublic/revtr/clustermap"
+	"github.com/VolSec/ReverseTraceroutePublic/util/string"
 )
 
 const (

@@ -3,7 +3,7 @@ package reversetraceroute
 import (
 	"fmt"
 
-	"github.com/NEU-SNS/ReverseTraceroute/revtr/clustermap"
+	"github.com/VolSec/ReverseTraceroutePublic/revtr/clustermap"
 )
 
 // ReversePath is a reverse path

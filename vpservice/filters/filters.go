@@ -3,7 +3,7 @@ package filters
 import (
 	"sort"
 
-	"github.com/NEU-SNS/ReverseTraceroute/vpservice/types"
+	"github.com/VolSec/ReverseTraceroutePublic/vpservice/types"
 )
 
 // RRFilter  is a function for prividing addition filtering the

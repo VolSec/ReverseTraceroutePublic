@@ -33,10 +33,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/NEU-SNS/ReverseTraceroute/datamodel"
-	"github.com/NEU-SNS/ReverseTraceroute/scamper"
-	"github.com/NEU-SNS/ReverseTraceroute/scamper/internal"
-	"github.com/NEU-SNS/ReverseTraceroute/util"
+	"github.com/VolSec/ReverseTraceroutePublic/datamodel"
+	"github.com/VolSec/ReverseTraceroutePublic/scamper"
+	"github.com/VolSec/ReverseTraceroutePublic/scamper/internal"
+	"github.com/VolSec/ReverseTraceroutePublic/util"
 )
 
 var sockPath = "/tmp/192.168.1.2:5000"

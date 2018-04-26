@@ -1,6 +1,6 @@
 # iplane
 --
-    import "github.com/NEU-SNS/ReverseTraceroute/iplanetraceroute"
+    import "github.com/VolSec/ReverseTraceroutePublic/iplanetraceroute"
 
 
 ## Usage

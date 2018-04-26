@@ -1,6 +1,6 @@
 package mocks
 
-import "github.com/NEU-SNS/ReverseTraceroute/revtr/types"
+import "github.com/VolSec/ReverseTraceroutePublic/revtr/types"
 import "github.com/stretchr/testify/mock"
 
 type AdjacencySource struct {

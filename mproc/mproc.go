@@ -35,8 +35,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/NEU-SNS/ReverseTraceroute/log"
-	"github.com/NEU-SNS/ReverseTraceroute/mproc/proc"
+	"github.com/VolSec/ReverseTraceroutePublic/log"
+	"github.com/VolSec/ReverseTraceroutePublic/mproc/proc"
 )
 
 const (

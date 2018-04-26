@@ -2,7 +2,7 @@ package mocks
 
 import "github.com/stretchr/testify/mock"
 
-import "github.com/NEU-SNS/ReverseTraceroute/vpservice/pb"
+import "github.com/VolSec/ReverseTraceroutePublic/vpservice/pb"
 
 type VPSource struct {
 	mock.Mock

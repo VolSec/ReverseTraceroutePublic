@@ -2,8 +2,8 @@ package mocks
 
 import "github.com/stretchr/testify/mock"
 
-import "github.com/NEU-SNS/ReverseTraceroute/controller/pb"
-import "github.com/NEU-SNS/ReverseTraceroute/datamodel"
+import "github.com/VolSec/ReverseTraceroutePublic/controller/pb"
+import "github.com/VolSec/ReverseTraceroutePublic/datamodel"
 import "golang.org/x/net/context"
 
 type Client struct {

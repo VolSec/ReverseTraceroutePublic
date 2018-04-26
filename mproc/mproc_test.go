@@ -30,8 +30,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/NEU-SNS/ReverseTraceroute/mproc"
-	"github.com/NEU-SNS/ReverseTraceroute/mproc/proc"
+	"github.com/VolSec/ReverseTraceroutePublic/mproc"
+	"github.com/VolSec/ReverseTraceroutePublic/mproc/proc"
 )
 
 func TestManageProcess(t *testing.T) {

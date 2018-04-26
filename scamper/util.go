@@ -33,9 +33,9 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/NEU-SNS/ReverseTraceroute/log"
-	"github.com/NEU-SNS/ReverseTraceroute/mproc/proc"
-	"github.com/NEU-SNS/ReverseTraceroute/util"
+	"github.com/VolSec/ReverseTraceroutePublic/log"
+	"github.com/VolSec/ReverseTraceroutePublic/mproc/proc"
+	"github.com/VolSec/ReverseTraceroutePublic/util"
 )
 
 // Options for the scamper process

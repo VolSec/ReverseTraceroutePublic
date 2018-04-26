@@ -11,8 +11,8 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
 
-	"github.com/NEU-SNS/ReverseTraceroute/controller/client"
-	"github.com/NEU-SNS/ReverseTraceroute/datamodel"
+	"github.com/VolSec/ReverseTraceroutePublic/controller/client"
+	"github.com/VolSec/ReverseTraceroutePublic/datamodel"
 )
 
 func main() {

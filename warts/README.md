@@ -1,6 +1,6 @@
 # warts
 --
-    import "github.com/NEU-SNS/ReverseTraceroute/warts"
+    import "github.com/VolSec/ReverseTraceroutePublic/warts"
 
 Package warts is a library for parsing warts files
 

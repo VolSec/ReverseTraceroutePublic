@@ -29,7 +29,7 @@ package httpupdate_test
 import (
 	"testing"
 
-	"github.com/NEU-SNS/ReverseTraceroute/httpupdate"
+	"github.com/VolSec/ReverseTraceroutePublic/httpupdate"
 )
 
 func TestCheckUpdate(t *testing.T) {

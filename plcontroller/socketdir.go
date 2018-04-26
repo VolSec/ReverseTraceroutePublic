@@ -33,10 +33,10 @@ import (
 	"path"
 	"strings"
 
-	"github.com/NEU-SNS/ReverseTraceroute/log"
-	"github.com/NEU-SNS/ReverseTraceroute/scamper"
-	"github.com/NEU-SNS/ReverseTraceroute/util"
-	"github.com/NEU-SNS/ReverseTraceroute/watcher"
+	"github.com/VolSec/ReverseTraceroutePublic/log"
+	"github.com/VolSec/ReverseTraceroutePublic/scamper"
+	"github.com/VolSec/ReverseTraceroutePublic/util"
+	"github.com/VolSec/ReverseTraceroutePublic/watcher"
 )
 
 func (c *PlController) handlEvents() {

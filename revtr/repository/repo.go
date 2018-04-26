@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/NEU-SNS/ReverseTraceroute/log"
-	"github.com/NEU-SNS/ReverseTraceroute/repository"
-	"github.com/NEU-SNS/ReverseTraceroute/revtr/pb"
-	"github.com/NEU-SNS/ReverseTraceroute/revtr/types"
-	"github.com/NEU-SNS/ReverseTraceroute/util"
+	"github.com/VolSec/ReverseTraceroutePublic/log"
+	"github.com/VolSec/ReverseTraceroutePublic/repository"
+	"github.com/VolSec/ReverseTraceroutePublic/revtr/pb"
+	"github.com/VolSec/ReverseTraceroutePublic/revtr/types"
+	"github.com/VolSec/ReverseTraceroutePublic/util"
 	"github.com/golang/protobuf/ptypes"
 )
 

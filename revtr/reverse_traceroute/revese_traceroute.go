@@ -9,16 +9,16 @@ import (
 	"sync"
 	"time"
 
-	"github.com/NEU-SNS/ReverseTraceroute/util/string"
+	"github.com/VolSec/ReverseTraceroutePublic/util/string"
 	"github.com/golang/protobuf/ptypes"
 
-	apb "github.com/NEU-SNS/ReverseTraceroute/atlas/pb"
-	"github.com/NEU-SNS/ReverseTraceroute/log"
-	"github.com/NEU-SNS/ReverseTraceroute/revtr/clustermap"
-	"github.com/NEU-SNS/ReverseTraceroute/revtr/pb"
-	"github.com/NEU-SNS/ReverseTraceroute/revtr/types"
-	"github.com/NEU-SNS/ReverseTraceroute/util"
-	vpservice "github.com/NEU-SNS/ReverseTraceroute/vpservice/client"
+	apb "github.com/VolSec/ReverseTraceroutePublic/atlas/pb"
+	"github.com/VolSec/ReverseTraceroutePublic/log"
+	"github.com/VolSec/ReverseTraceroutePublic/revtr/clustermap"
+	"github.com/VolSec/ReverseTraceroutePublic/revtr/pb"
+	"github.com/VolSec/ReverseTraceroutePublic/revtr/types"
+	"github.com/VolSec/ReverseTraceroutePublic/util"
+	vpservice "github.com/VolSec/ReverseTraceroutePublic/vpservice/client"
 )
 
 var (

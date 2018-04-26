@@ -33,7 +33,7 @@ import (
 
 	"golang.org/x/net/context"
 
-	dm "github.com/NEU-SNS/ReverseTraceroute/datamodel"
+	dm "github.com/VolSec/ReverseTraceroutePublic/datamodel"
 )
 
 type service uint

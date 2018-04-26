@@ -32,8 +32,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/NEU-SNS/ReverseTraceroute/util"
-	"github.com/NEU-SNS/ReverseTraceroute/watcher"
+	"github.com/VolSec/ReverseTraceroutePublic/util"
+	"github.com/VolSec/ReverseTraceroutePublic/watcher"
 )
 
 func TestEvents(t *testing.T) {

@@ -1,6 +1,6 @@
 # watcher
 --
-    import "github.com/NEU-SNS/ReverseTraceroute/watcher"
+    import "github.com/VolSec/ReverseTraceroutePublic/watcher"
 
 Package watcher watches a directory and reports back file system events
 

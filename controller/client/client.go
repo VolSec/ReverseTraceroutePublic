@@ -1,8 +1,8 @@
 package client
 
 import (
-	"github.com/NEU-SNS/ReverseTraceroute/controller/pb"
-	"github.com/NEU-SNS/ReverseTraceroute/datamodel"
+	"github.com/VolSec/ReverseTraceroutePublic/controller/pb"
+	"github.com/VolSec/ReverseTraceroutePublic/datamodel"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 )

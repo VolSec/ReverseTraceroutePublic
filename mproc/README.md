@@ -1,6 +1,6 @@
 # mproc
 --
-    import "github.com/NEU-SNS/ReverseTraceroute/mproc"
+    import "github.com/VolSec/ReverseTraceroutePublic/mproc"
 
 Package mproc is a simple process manager
 

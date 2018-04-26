@@ -31,7 +31,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/NEU-SNS/ReverseTraceroute/atlas/pb"
+	"github.com/VolSec/ReverseTraceroutePublic/atlas/pb"
 )
 
 func uint32SliceEqual(l, r []uint32) bool {

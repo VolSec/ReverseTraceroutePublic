@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-import "github.com/NEU-SNS/ReverseTraceroute/datamodel/time.proto";
+import "github.com/VolSec/ReverseTraceroutePublic/datamodel/time.proto";
 
 option go_package = "datamodel";
 

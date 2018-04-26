@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/NEU-SNS/ReverseTraceroute/log"
-	"github.com/NEU-SNS/ReverseTraceroute/revtr/types"
-	"github.com/NEU-SNS/ReverseTraceroute/util"
+	"github.com/VolSec/ReverseTraceroutePublic/log"
+	"github.com/VolSec/ReverseTraceroutePublic/revtr/types"
+	"github.com/VolSec/ReverseTraceroutePublic/util"
 )
 
 // ClusterMap maps IP addresses to cluster ids

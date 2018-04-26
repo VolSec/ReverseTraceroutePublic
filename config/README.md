@@ -1,6 +1,6 @@
 # config
 --
-    import "github.com/NEU-SNS/ReverseTraceroute/config"
+    import "github.com/VolSec/ReverseTraceroutePublic/config"
 
 Package config handles the config parsing for the various commands
 

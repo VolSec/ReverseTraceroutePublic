@@ -3,8 +3,8 @@ package types
 import (
 	"time"
 
-	"github.com/NEU-SNS/ReverseTraceroute/atlas/pb"
-	"github.com/NEU-SNS/ReverseTraceroute/datamodel"
+	"github.com/VolSec/ReverseTraceroutePublic/atlas/pb"
+	"github.com/VolSec/ReverseTraceroutePublic/datamodel"
 )
 
 // IntersectionQuery represents a request to the TRStore for an intersecting traceroute

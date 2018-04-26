@@ -4,7 +4,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/NEU-SNS/ReverseTraceroute/router"
+	"github.com/VolSec/ReverseTraceroutePublic/router"
 )
 
 var (

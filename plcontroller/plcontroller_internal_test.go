@@ -32,10 +32,10 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/NEU-SNS/ReverseTraceroute/datamodel"
-	"github.com/NEU-SNS/ReverseTraceroute/plcontroller/mocks"
-	smock "github.com/NEU-SNS/ReverseTraceroute/spoofmap/mocks"
-	"github.com/NEU-SNS/ReverseTraceroute/util"
+	"github.com/VolSec/ReverseTraceroutePublic/datamodel"
+	"github.com/VolSec/ReverseTraceroutePublic/plcontroller/mocks"
+	smock "github.com/VolSec/ReverseTraceroutePublic/spoofmap/mocks"
+	"github.com/VolSec/ReverseTraceroutePublic/util"
 	mmock "github.com/stretchr/testify/mock"
 )
 

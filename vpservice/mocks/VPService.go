@@ -2,7 +2,7 @@ package mocks
 
 import "github.com/stretchr/testify/mock"
 
-import dm "github.com/NEU-SNS/ReverseTraceroute/datamodel"
+import dm "github.com/VolSec/ReverseTraceroutePublic/datamodel"
 import "golang.org/x/net/context"
 
 type VPService struct {

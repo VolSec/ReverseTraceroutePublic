@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/NEU-SNS/ReverseTraceroute/iplanetraceroute"
+	"github.com/VolSec/ReverseTraceroutePublic/iplanetraceroute"
 )
 
 func main() {

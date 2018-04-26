@@ -5,8 +5,8 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/NEU-SNS/ReverseTraceroute/dataaccess"
-	"github.com/NEU-SNS/ReverseTraceroute/iplanetraceroute"
+	"github.com/VolSec/ReverseTraceroutePublic/dataaccess"
+	"github.com/VolSec/ReverseTraceroutePublic/iplanetraceroute"
 )
 
 func main() {

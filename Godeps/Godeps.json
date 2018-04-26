@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/NEU-SNS/ReverseTraceroute",
+	"ImportPath": "github.com/VolSec/ReverseTraceroutePublic",
 	"GoVersion": "go1.6",
 	"GodepVersion": "v74",
 	"Packages": [

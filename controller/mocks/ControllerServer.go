@@ -1,8 +1,8 @@
 package mocks
 
 import (
-	"github.com/NEU-SNS/ReverseTraceroute/controller/pb"
-	"github.com/NEU-SNS/ReverseTraceroute/datamodel"
+	"github.com/VolSec/ReverseTraceroutePublic/controller/pb"
+	"github.com/VolSec/ReverseTraceroutePublic/datamodel"
 	"github.com/stretchr/testify/mock"
 )
 

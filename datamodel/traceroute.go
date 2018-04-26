@@ -33,8 +33,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/NEU-SNS/ReverseTraceroute/log"
-	"github.com/NEU-SNS/ReverseTraceroute/util"
+	"github.com/VolSec/ReverseTraceroutePublic/log"
+	"github.com/VolSec/ReverseTraceroutePublic/util"
 	"github.com/golang/protobuf/proto"
 )
 

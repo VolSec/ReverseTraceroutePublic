@@ -29,7 +29,7 @@ package cache_test
 import (
 	"testing"
 
-	"github.com/NEU-SNS/ReverseTraceroute/cache"
+	"github.com/VolSec/ReverseTraceroutePublic/cache"
 )
 
 var list = cache.ServerList{"127.0.0.1:11211"}

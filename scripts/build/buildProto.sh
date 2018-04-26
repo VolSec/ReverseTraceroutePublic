@@ -9,22 +9,22 @@ set -e
 GOSRC=$GOPATH/src
 
 protoc  -I$GOSRC --go_out=plugins=grpc:$GOSRC \
-	$GOSRC/github.com/NEU-SNS/ReverseTraceroute/datamodel/*.proto 
+	$GOSRC/github.com/VolSec/ReverseTraceroutePublic/datamodel/*.proto 
 
 protoc  -I$GOSRC --go_out=plugins=grpc:$GOSRC \
-	$GOSRC/github.com/NEU-SNS/ReverseTraceroute/controller/pb/*.proto 
+	$GOSRC/github.com/VolSec/ReverseTraceroutePublic/controller/pb/*.proto 
     
 
 protoc  -I$GOSRC --go_out=plugins=grpc:$GOSRC \
-	$GOSRC/github.com/NEU-SNS/ReverseTraceroute/plcontroller/pb/*.proto 
+	$GOSRC/github.com/VolSec/ReverseTraceroutePublic/plcontroller/pb/*.proto 
     
 
 protoc  -I$GOSRC --go_out=plugins=grpc:$GOSRC \
-	$GOSRC/github.com/NEU-SNS/ReverseTraceroute/vpservice/pb/*.proto 
+	$GOSRC/github.com/VolSec/ReverseTraceroutePublic/vpservice/pb/*.proto 
     
 
 protoc  -I$GOSRC --go_out=plugins=grpc:$GOSRC \
-	$GOSRC/github.com/NEU-SNS/ReverseTraceroute/atlas/pb/*.proto 
+	$GOSRC/github.com/VolSec/ReverseTraceroutePublic/atlas/pb/*.proto 
     
 PATH_REPLACE=Mgoogle/api/annotations.proto=github.com/grpc-ecosystem/grpc-gateway/third_party/googleapis/google/api,Mgoogle/protobuf/duration.proto=github.com/golang/protobuf/ptypes/duration
 
@@ -33,7 +33,7 @@ protoc -I/usr/local/include \
        -I$GOPATH/src \
        -I$GOPATH/src/github.com/grpc-ecosystem/grpc-gateway/third_party/googleapis \
        --go_out=$PATH_REPLACE,plugins=grpc:$GOSRC \
-       $GOSRC/github.com/NEU-SNS/ReverseTraceroute/revtr/pb/*.proto 
+       $GOSRC/github.com/VolSec/ReverseTraceroutePublic/revtr/pb/*.proto 
 
 
 protoc -I/usr/local/include \
@@ -41,4 +41,4 @@ protoc -I/usr/local/include \
        -I$GOPATH/src \
        -I$GOPATH/src/github.com/grpc-ecosystem/grpc-gateway/third_party/googleapis \
        --grpc-gateway_out=logtostderr=true:$GOSRC \
-       $GOSRC/github.com/NEU-SNS/ReverseTraceroute/revtr/pb/*.proto 
+       $GOSRC/github.com/VolSec/ReverseTraceroutePublic/revtr/pb/*.proto 

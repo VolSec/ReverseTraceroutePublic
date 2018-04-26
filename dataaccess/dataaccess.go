@@ -32,8 +32,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/NEU-SNS/ReverseTraceroute/dataaccess/sql"
-	dm "github.com/NEU-SNS/ReverseTraceroute/datamodel"
+	"github.com/VolSec/ReverseTraceroutePublic/dataaccess/sql"
+	dm "github.com/VolSec/ReverseTraceroutePublic/datamodel"
 )
 
 // DbConfig is a database configuration

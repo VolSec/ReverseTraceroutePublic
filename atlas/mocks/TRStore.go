@@ -1,11 +1,11 @@
 package mocks
 
-import "github.com/NEU-SNS/ReverseTraceroute/atlas/types"
+import "github.com/VolSec/ReverseTraceroutePublic/atlas/types"
 import "github.com/stretchr/testify/mock"
 
 import "time"
-import "github.com/NEU-SNS/ReverseTraceroute/atlas/pb"
-import "github.com/NEU-SNS/ReverseTraceroute/datamodel"
+import "github.com/VolSec/ReverseTraceroutePublic/atlas/pb"
+import "github.com/VolSec/ReverseTraceroutePublic/datamodel"
 
 type TRStore struct {
 	mock.Mock

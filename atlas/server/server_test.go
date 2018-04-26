@@ -31,13 +31,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/NEU-SNS/ReverseTraceroute/atlas/mocks"
-	"github.com/NEU-SNS/ReverseTraceroute/atlas/pb"
-	"github.com/NEU-SNS/ReverseTraceroute/atlas/repo"
-	"github.com/NEU-SNS/ReverseTraceroute/atlas/server"
-	cmocks "github.com/NEU-SNS/ReverseTraceroute/controller/mocks"
-	vpmocks "github.com/NEU-SNS/ReverseTraceroute/vpservice/mocks"
-	vppb "github.com/NEU-SNS/ReverseTraceroute/vpservice/pb"
+	"github.com/VolSec/ReverseTraceroutePublic/atlas/mocks"
+	"github.com/VolSec/ReverseTraceroutePublic/atlas/pb"
+	"github.com/VolSec/ReverseTraceroutePublic/atlas/repo"
+	"github.com/VolSec/ReverseTraceroutePublic/atlas/server"
+	cmocks "github.com/VolSec/ReverseTraceroutePublic/controller/mocks"
+	vpmocks "github.com/VolSec/ReverseTraceroutePublic/vpservice/mocks"
+	vppb "github.com/VolSec/ReverseTraceroutePublic/vpservice/pb"
 	"github.com/stretchr/testify/mock"
 )
 

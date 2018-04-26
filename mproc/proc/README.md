@@ -1,6 +1,6 @@
 # proc
 --
-    import "github.com/NEU-SNS/ReverseTraceroute/mproc/proc"
+    import "github.com/VolSec/ReverseTraceroutePublic/mproc/proc"
 
 Package proc is a package for running processes
 

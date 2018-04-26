@@ -31,9 +31,9 @@ package plcontroller
 import (
 	"fmt"
 
-	plc "github.com/NEU-SNS/ReverseTraceroute/controller/pb"
-	dm "github.com/NEU-SNS/ReverseTraceroute/datamodel"
-	"github.com/NEU-SNS/ReverseTraceroute/util"
+	plc "github.com/VolSec/ReverseTraceroutePublic/controller/pb"
+	dm "github.com/VolSec/ReverseTraceroutePublic/datamodel"
+	"github.com/VolSec/ReverseTraceroutePublic/util"
 	con "golang.org/x/net/context"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"

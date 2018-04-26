@@ -39,13 +39,13 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/NEU-SNS/ReverseTraceroute/controller/client"
-	"github.com/NEU-SNS/ReverseTraceroute/datamodel"
-	"github.com/NEU-SNS/ReverseTraceroute/log"
-	"github.com/NEU-SNS/ReverseTraceroute/util"
-	"github.com/NEU-SNS/ReverseTraceroute/vpservice/filters"
-	"github.com/NEU-SNS/ReverseTraceroute/vpservice/pb"
-	"github.com/NEU-SNS/ReverseTraceroute/vpservice/types"
+	"github.com/VolSec/ReverseTraceroutePublic/controller/client"
+	"github.com/VolSec/ReverseTraceroutePublic/datamodel"
+	"github.com/VolSec/ReverseTraceroutePublic/log"
+	"github.com/VolSec/ReverseTraceroutePublic/util"
+	"github.com/VolSec/ReverseTraceroutePublic/vpservice/filters"
+	"github.com/VolSec/ReverseTraceroutePublic/vpservice/pb"
+	"github.com/VolSec/ReverseTraceroutePublic/vpservice/types"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

@@ -31,8 +31,8 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/NEU-SNS/ReverseTraceroute/datamodel"
-	"github.com/NEU-SNS/ReverseTraceroute/warts"
+	"github.com/VolSec/ReverseTraceroutePublic/datamodel"
+	"github.com/VolSec/ReverseTraceroutePublic/warts"
 )
 
 func TestParsePing(t *testing.T) {

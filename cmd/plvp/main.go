@@ -14,10 +14,10 @@ import (
 
 	"google.golang.org/grpc/grpclog"
 
-	"github.com/NEU-SNS/ReverseTraceroute/config"
-	"github.com/NEU-SNS/ReverseTraceroute/log"
-	"github.com/NEU-SNS/ReverseTraceroute/plvp"
-	"github.com/NEU-SNS/ReverseTraceroute/util"
+	"github.com/VolSec/ReverseTraceroutePublic/config"
+	"github.com/VolSec/ReverseTraceroutePublic/log"
+	"github.com/VolSec/ReverseTraceroutePublic/plvp"
+	"github.com/VolSec/ReverseTraceroutePublic/util"
 )
 
 var (

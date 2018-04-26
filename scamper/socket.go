@@ -41,10 +41,10 @@ import (
 
 	"sync/atomic"
 
-	"github.com/NEU-SNS/ReverseTraceroute/log"
-	"github.com/NEU-SNS/ReverseTraceroute/util"
-	"github.com/NEU-SNS/ReverseTraceroute/uuencode"
-	"github.com/NEU-SNS/ReverseTraceroute/warts"
+	"github.com/VolSec/ReverseTraceroutePublic/log"
+	"github.com/VolSec/ReverseTraceroutePublic/util"
+	"github.com/VolSec/ReverseTraceroutePublic/uuencode"
+	"github.com/VolSec/ReverseTraceroutePublic/warts"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

@@ -3,7 +3,7 @@ package plvp
 import (
 	"testing"
 
-	dm "github.com/NEU-SNS/ReverseTraceroute/datamodel"
+	dm "github.com/VolSec/ReverseTraceroutePublic/datamodel"
 	opt "github.com/rhansen2/ipv4optparser"
 )
 

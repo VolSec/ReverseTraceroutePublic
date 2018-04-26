@@ -1,7 +1,7 @@
 package client
 
 import (
-	"github.com/NEU-SNS/ReverseTraceroute/atlas/pb"
+	"github.com/VolSec/ReverseTraceroutePublic/atlas/pb"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 )

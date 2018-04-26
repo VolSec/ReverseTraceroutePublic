@@ -34,7 +34,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/NEU-SNS/ReverseTraceroute/config"
+	"github.com/VolSec/ReverseTraceroutePublic/config"
 )
 
 type SubConfig struct {

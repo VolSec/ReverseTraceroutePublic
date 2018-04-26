@@ -30,7 +30,7 @@ package uuencode_test
 import (
 	"testing"
 
-	"github.com/NEU-SNS/ReverseTraceroute/uuencode"
+	"github.com/VolSec/ReverseTraceroutePublic/uuencode"
 )
 
 func TestEncode(t *testing.T) {

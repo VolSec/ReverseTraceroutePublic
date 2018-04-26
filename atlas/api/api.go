@@ -4,9 +4,9 @@ import (
 	"crypto/tls"
 	"io"
 
-	"github.com/NEU-SNS/ReverseTraceroute/atlas/pb"
-	"github.com/NEU-SNS/ReverseTraceroute/atlas/server"
-	"github.com/NEU-SNS/ReverseTraceroute/log"
+	"github.com/VolSec/ReverseTraceroutePublic/atlas/pb"
+	"github.com/VolSec/ReverseTraceroutePublic/atlas/server"
+	"github.com/VolSec/ReverseTraceroutePublic/log"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
 )

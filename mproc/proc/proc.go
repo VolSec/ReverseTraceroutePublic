@@ -33,7 +33,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/NEU-SNS/ReverseTraceroute/log"
+	"github.com/VolSec/ReverseTraceroutePublic/log"
 )
 
 // Process represents a process

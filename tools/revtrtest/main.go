@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/NEU-SNS/ReverseTraceroute/log"
+	"github.com/VolSec/ReverseTraceroutePublic/log"
 )
 
 var (

@@ -1,6 +1,6 @@
 package filters
 
-import "github.com/NEU-SNS/ReverseTraceroute/vpservice/types"
+import "github.com/VolSec/ReverseTraceroutePublic/vpservice/types"
 
 // ComposeRRFilter composes the given RRFilters into a single RRFilter
 // they are run in the order they are given

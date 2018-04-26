@@ -35,8 +35,8 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/NEU-SNS/ReverseTraceroute/log"
-	"github.com/NEU-SNS/ReverseTraceroute/vpservice/pb"
+	"github.com/VolSec/ReverseTraceroutePublic/log"
+	"github.com/VolSec/ReverseTraceroutePublic/vpservice/pb"
 )
 
 // VPProvider is the interface for a provider for vantage points

@@ -5,8 +5,8 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/NEU-SNS/ReverseTraceroute/vpservice/pb"
-	"github.com/NEU-SNS/ReverseTraceroute/vpservice/server"
+	"github.com/VolSec/ReverseTraceroutePublic/vpservice/pb"
+	"github.com/VolSec/ReverseTraceroutePublic/vpservice/server"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
 )

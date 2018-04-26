@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/NEU-SNS/ReverseTraceroute/log"
-	"github.com/NEU-SNS/ReverseTraceroute/repository"
-	"github.com/NEU-SNS/ReverseTraceroute/vpservice/pb"
-	"github.com/NEU-SNS/ReverseTraceroute/vpservice/types"
+	"github.com/VolSec/ReverseTraceroutePublic/log"
+	"github.com/VolSec/ReverseTraceroutePublic/repository"
+	"github.com/VolSec/ReverseTraceroutePublic/vpservice/pb"
+	"github.com/VolSec/ReverseTraceroutePublic/vpservice/types"
 )
 
 // Repo is a repository for storing and querying for vantage points

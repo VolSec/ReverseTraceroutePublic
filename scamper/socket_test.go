@@ -34,8 +34,8 @@ import (
 	"net"
 	"testing"
 
-	"github.com/NEU-SNS/ReverseTraceroute/datamodel"
-	"github.com/NEU-SNS/ReverseTraceroute/scamper"
+	"github.com/VolSec/ReverseTraceroutePublic/datamodel"
+	"github.com/VolSec/ReverseTraceroutePublic/scamper"
 )
 
 type dumpListener struct {

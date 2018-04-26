@@ -3,8 +3,8 @@ package client
 import (
 	"time"
 
-	"github.com/NEU-SNS/ReverseTraceroute/log"
-	"github.com/NEU-SNS/ReverseTraceroute/vpservice/pb"
+	"github.com/VolSec/ReverseTraceroutePublic/log"
+	"github.com/VolSec/ReverseTraceroutePublic/vpservice/pb"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 )
